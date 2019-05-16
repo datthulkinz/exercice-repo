@@ -10,3 +10,5 @@ WTF
 Ivan e gotin
 
 Ivan stava
+
+Ivan za nishto nr stava
